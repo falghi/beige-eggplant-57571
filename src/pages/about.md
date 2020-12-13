@@ -44,45 +44,6 @@ sections:
         image: images/about-2.jpg
         media_position: left
         media_width: fifty
-  - type: grid_section
-    title: Our Office
-    grid_items:
-      - title: PT. Anugerah Bumi Samudra Bogor
-        content: >-
-          1234 Some St.<br/> Bogor, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
-        content_align: left
-        actions:
-          - label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: left
-        actions_width: auto
-    grid_cols: one
-    grid_gap_horiz: large
-    grid_gap_vert: large
-    enable_cards: true
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    justify_content: center
-  - type: cta_section
-    title: Order our Products
-    content: 'Flour, Chips, and many others Konyaku Products'
-    actions:
-      - label: Order Now
-        url: /pricing
-        style: primary
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
   - title: Legalities & Certificates
     subtitle: ''
     actions: []
@@ -157,5 +118,44 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - type: grid_section
+    title: Our Office
+    grid_items:
+      - title: PT. Anugerah Bumi Samudra Bogor
+        content: >-
+          1234 Some St.<br/> Bogor, ST 12345<br/>
+          [1-234-556-7890](tel:+12345567890)<br/>
+          [email@example.com](mailto:email@example.com)
+        content_align: left
+        actions:
+          - label: Get Directions
+            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        actions_align: left
+        actions_width: auto
+    grid_cols: one
+    grid_gap_horiz: large
+    grid_gap_vert: large
+    enable_cards: true
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    justify_content: center
+  - type: cta_section
+    title: Order our Products
+    content: 'Flour, Chips, and many others Konyaku Products'
+    actions:
+      - label: Order Now
+        url: /pricing
+        style: primary
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
 template: advanced
 ---

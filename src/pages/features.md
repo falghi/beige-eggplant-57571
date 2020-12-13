@@ -37,7 +37,7 @@ sections:
         media_position: left
         media_width: fifty
         actions:
-          - label: lorem-ipsum
+          - label: Order Here
             url: lorem-ipsum
             style: link
             has_icon: false

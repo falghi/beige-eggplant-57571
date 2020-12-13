@@ -11,7 +11,8 @@ export default class GridSection extends React.Component {
         let align_x = _.get(section, 'align', null) || 'center';
         let padding_top = _.get(section, 'padding_top', null) || 'medium';
         let padding_bottom = _.get(section, 'padding_bottom', null) || 'medium';
-        let bg_color = _.get(section, 'background_color', null) || 'none';
+				let bg_color = _.get(section, 'background_color', null) || 'none';
+				let justify_content = _.get(section, 'justify_content', null) || 'flex-start';
         let bg_img_opacity_pct = _.get(section, 'background_image_opacity', null) || 100;
         let bg_img_opacity = bg_img_opacity_pct * 0.01;
         let bg_img_size = _.get(section, 'background_image_size', null) || 'cover';
@@ -36,7 +37,7 @@ export default class GridSection extends React.Component {
             	)}
             	{_.get(section, 'grid_items', null) && (
             	<div className="container">
-            		<div className={classNames('grid', {'grid-gap-small': grid_gap_x === 'small', 'grid-gap-large': grid_gap_x === 'large'})}>
+            		<div className={classNames('grid', {'grid-gap-small': grid_gap_x === 'small', 'grid-gap-large': grid_gap_x === 'large'})} style={{ justifyContent: justify_content }}>
             			{_.map(_.get(section, 'grid_items', null), (item, item_idx) => (
             				<GridItem key={item_idx} {...this.props} section={section} item={item} />
             			))}

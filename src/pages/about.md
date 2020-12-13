@@ -3,44 +3,53 @@ title: About
 sections:
   - type: hero_section
     title: About
-    subtitle: About Page Demo
+    subtitle: Selamat Datang di Anugerah Bumi Samudra
     align: center
     background_color: secondary
   - type: features_section
     features:
-      - title: Section Title One
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+      - title: Didirikan pada Tahun 2008
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          fringilla, fringilla. Halo maximus aliquet risus. Vivamus in nibh
+          valhalla, fringilla.
         image: images/about-5.jpg
         media_position: right
         media_width: fifty
-      - title: Section Title Two
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+      - title: Memiliki Portofolio Produk yang Beragam
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Portofolio produk yang beragam untuk memenuhi kebutuhan kemasan
+          industri yang berbeda. Donec nisl ligula, cursus id molestie vel,
+          maximus aliquet risus. Vivamus in nibh fringilla, fringilla. Donec
+          nisl ligula, cursus id molestie vel.
         image: images/about-2.jpg
         media_position: left
         media_width: fifty
-      - title: Section Title Three
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
+      - title: Berlokasi strategis di Bogor
         content: >-
+          Berlokasi strategis di Bogor untuk operasi dan pengiriman yang lebih cepat.
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         image: images/about-1.jpg
         media_position: right
         media_width: fifty
+      - title: Sesuai dengan standar internasional yang paling ketat.
+        content: >-
+          Berlokasi strategis di Bogor untuk operasi dan pengiriman yang lebih cepat.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla, fringilla.
+        image: images/about-2.jpg
+        media_position: left
+        media_width: fifty
   - type: grid_section
-    title: Our Officess
+    title: Our Office
     grid_items:
-      - title: Some City
+      - title: PT. Anugerah Bumi Samudra Bogor
         content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
+          1234 Some St.<br/> Bogor, ST 12345<br/>
           [1-234-556-7890](tel:+12345567890)<br/>
           [email@example.com](mailto:email@example.com)
         content_align: left
@@ -53,52 +62,7 @@ sections:
             icon_position: right
         actions_align: left
         actions_width: auto
-      - title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
-        content_align: left
-        actions:
-          - label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: left
-        actions_width: auto
-      - title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
-        content_align: left
-        actions:
-          - label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: left
-        actions_width: auto
-      - title: Some City
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
-        content_align: left
-        actions:
-          - label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: left
-        actions_width: auto
-    grid_cols: four
+    grid_cols: one
     grid_gap_horiz: large
     grid_gap_vert: large
     enable_cards: true
@@ -106,11 +70,12 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
+    justify_content: center
   - type: cta_section
-    title: This is a Call to Action
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    title: Order our Products
+    content: Flour, Chips, and many others Konyaku Products
     actions:
-      - label: Compare Plans
+      - label: Order Now
         url: /pricing
         style: primary
     align: center

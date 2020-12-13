@@ -5,7 +5,7 @@ sections:
     title: Best Konyaku Manufacturer in Indonesia
     subtitle: ''
     content: >-
-      Didirikan pada tahun 2008, PT Anugerah Bumi Samudra memiliki banyak
+      Didirikan pada tahun 2008, PT. Anugerah Bumi Samudra memiliki banyak
       pengalaman dalam penyediaan produk berkualitas.
     actions:
       - label: Contact Us
@@ -151,7 +151,7 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Pelayanan yang diberikan oleh PT Anugrah Bumi Samudra sangatlah
+          “Pelayanan yang diberikan oleh PT. Anugerah Bumi Samudra sangatlah
           ramah, adminnya fast respon, dan pengiriman dilakukan dengan cepat dan
           konsisten. Highly Recommended!”
         subtitle: 'Andi Budi, Sr. Design Manager at Company X'

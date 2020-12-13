@@ -132,16 +132,8 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Dikukuhkan sebagai PKP (Pengusaha Kena Pajak), pada tanggal 21 Agustus
+          2008
         content_align: left
         actions: []
         actions_align: left

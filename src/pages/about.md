@@ -83,7 +83,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-  - title: Legality & Certificate of the Company
+  - title: Legalities & Certificates
     subtitle: lorem-ipsum
     actions: []
     grid_items: []

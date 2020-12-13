@@ -154,7 +154,7 @@ sections:
           “Pelayanan yang diberikan oleh PT Anugrah Bumi Samudra sangatlah
           ramah, adminnya fast respon, dan pengiriman dilakukan dengan cepat dan
           konsisten. Highly Recommended!”
-        subtitle: 'Andi Budi, Sr. Design Manager at Company'
+        subtitle: 'Andi Budi, Sr. Design Manager at Company X'
         image: images/brandon-guidelines.png
         media_position: right
         media_width: thirty-three

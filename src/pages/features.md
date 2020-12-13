@@ -8,7 +8,7 @@ sections:
   - type: features_section
     features:
       - title: Flour
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: ''
         content: ''
         image: images/about-3.jpg
         media_position: right

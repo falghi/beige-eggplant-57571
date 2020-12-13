@@ -92,7 +92,7 @@ sections:
     title: Why Us
     subtitle: ''
     features:
-      - title: The Big Title For the Feature
+      - title: 'Clean approach on every '
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl

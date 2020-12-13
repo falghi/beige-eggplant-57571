@@ -45,7 +45,7 @@ sections:
             icon_position: right
             new_window: false
             type: action
-      - title: Section Title Three
+      - title: Product Three
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl

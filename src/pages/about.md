@@ -87,7 +87,7 @@ sections:
     subtitle: ''
     actions: []
     grid_items:
-      - title: 'Surat Izin Usaha Perdagangan (SIUP) No : 510.41/018/00799/BPT/2014'
+      - title: SIUP
         subtitle: lorem-ipsum
         title_align: left
         content: >-

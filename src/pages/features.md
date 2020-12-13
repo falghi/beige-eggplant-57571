@@ -48,9 +48,8 @@ sections:
       - title: Product Three
         subtitle: ''
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Lorem ipsum deskripsi product three. Lorem lorem lorem one two three
+          hehe valhalla viking.
         image: images/about-1.jpg
         media_position: right
         media_width: fifty

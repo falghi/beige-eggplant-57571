@@ -36,6 +36,15 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: fifty
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            type: action
       - title: Section Title Three
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-

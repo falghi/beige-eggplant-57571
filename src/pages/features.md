@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Explore Products
-    subtitle: Features Page Demo
+    subtitle: 'Flour, Chips, and many others'
     background_color: primary
   - type: features_section
     features:

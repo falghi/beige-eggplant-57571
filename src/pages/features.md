@@ -27,7 +27,7 @@ sections:
       - title: Chips
         subtitle: ''
         content: >-
-          Lorem ipsum deskripsi tepungnya. Lorem lorem lorem one two three hehe
+          Lorem ipsum deskripsi chipsnya. Lorem lorem lorem one two three hehe
           valhalla viking.
         video_embed_html: >-
           <iframe width="560" height="315"

@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Excellent Manufacturer in Konyaku
+    title: Excellent Konyaku
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl

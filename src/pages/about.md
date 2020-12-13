@@ -101,7 +101,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Akte Pengesahan Pendirian Perusahaan
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: >-
           Akte pengesahan pendirian perusahaan oleh Notaris Media Sari, SH No :

@@ -46,7 +46,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: grid_section
-    title: Cards Grid Section
+    title: Products
     subtitle: ''
     grid_items:
       - title: Section Item 1

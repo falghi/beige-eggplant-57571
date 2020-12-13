@@ -166,7 +166,7 @@ sections:
       Our marketing staff will be in touch with you through our Whatsapp. Lorem
       ipsum maximus aliquet risus. Vivamus in nibh fringilla, fringilla.
     actions:
-      - label: Button
+      - label: Contact Us
         url: /pricing
         style: primary
     actions_position: bottom

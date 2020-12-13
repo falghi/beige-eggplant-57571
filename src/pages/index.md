@@ -175,7 +175,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: grid_section
-    title: Management Team
+    title: Our Team
     subtitle: ''
     actions:
       - label: Join the team

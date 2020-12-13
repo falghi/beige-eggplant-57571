@@ -84,7 +84,7 @@ sections:
     has_border: false
     background_color: primary
   - title: Legalities & Certificates
-    subtitle: lorem-ipsum
+    subtitle: ''
     actions: []
     grid_items: []
     grid_cols: three

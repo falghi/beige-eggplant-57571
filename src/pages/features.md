@@ -63,7 +63,7 @@ sections:
             new_window: false
             type: action
   - type: grid_section
-    title: Reviews Section
+    title: Reviews
     subtitle: ''
     grid_items:
       - content: >-

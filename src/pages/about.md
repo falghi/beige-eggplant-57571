@@ -115,7 +115,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: lorem-ipsum
+      - title: Nomor Pokok Wajib Pajak (NPWP)
         subtitle: ''
         title_align: left
         content: NPWP 21.039.429.2.412.000; tanggal 12 Juli 2008

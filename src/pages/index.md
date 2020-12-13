@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Excellent Konyaku
+    title: Excellent Konyaku Manfu
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl

@@ -8,7 +8,7 @@ sections:
       Didirikan pada tahun 2008, PT Anugerah Bumi Samudra memiliki banyak
       pengalaman dalam penyediaan produk berkualitas.
     actions:
-      - label: Try Free
+      - label: Contact Us
         url: /pricing
         style: primary
       - label: Learn More

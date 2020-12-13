@@ -9,7 +9,9 @@ sections:
     features:
       - title: Flour
         subtitle: ''
-        content: ''
+        content: >-
+          Lorem ipsum deskripsi tepungnya. Lorem lorem lorem one two three hehe
+          valhalla viking.
         image: images/about-3.jpg
         media_position: right
         media_width: fifty

@@ -161,7 +161,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: cta_section
-    title: Pesan Konyaku Sekarang!
+    title: Order Konyaku
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh

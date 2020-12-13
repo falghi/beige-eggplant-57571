@@ -24,7 +24,7 @@ sections:
             icon_position: right
             new_window: false
             type: action
-      - title: Section Title Two
+      - title: Chips
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl

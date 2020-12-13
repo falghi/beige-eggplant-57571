@@ -47,7 +47,7 @@ sections:
     grid_gap_vert: medium
   - type: grid_section
     title: Cards Grid Section
-    subtitle: Grid Section Example
+    subtitle: Meow
     grid_items:
       - title: Section Item 1
         title_align: left

@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Best Konyaku Manufacturer in Indonesia
-    subtitle: 'Tepung, Chips, '
+    subtitle: 'Tepung, Chips, dan '
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.

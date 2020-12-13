@@ -92,7 +92,7 @@ sections:
     title: Why Us
     subtitle: ''
     features:
-      - title: Clean approach on every production step
+      - title: Green approach on every production step
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl

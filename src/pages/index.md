@@ -46,17 +46,6 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image: images/brandon-guidelines.png
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
-  - type: features_section
     title: Why Us
     subtitle: ''
     features:
@@ -110,6 +99,17 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
+  - type: features_section
+    features:
+      - title: >-
+          “Stackbit is fast! Themes are always up to date. It’s easy to use
+          across the organization, and collaboration is easy.”
+        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        image: images/brandon-guidelines.png
+        media_position: right
+        media_width: thirty-three
+    feature_padding_vert: small
+    background_color: primary
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example

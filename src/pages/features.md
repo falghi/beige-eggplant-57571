@@ -27,9 +27,8 @@ sections:
       - title: Chips
         subtitle: ''
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Lorem ipsum deskripsi tepungnya. Lorem lorem lorem one two three hehe
+          valhalla viking.
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"

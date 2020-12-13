@@ -163,9 +163,8 @@ sections:
   - type: cta_section
     title: Order our High Quality Konyaku Products Now!
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      Our marketing staff will be in touch with you through our Whatsapp. Lorem
+      ipsum maximus aliquet risus. Vivamus in nibh fringilla, fringilla.
     actions:
       - label: Button
         url: /pricing

@@ -90,17 +90,7 @@ sections:
       - title: Surat Izin Usaha Perdagangan (SIUP)
         subtitle: 'No : 510.41/018/00799/BPT/2014'
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: ''
         content_align: left
         actions: []
         actions_align: left

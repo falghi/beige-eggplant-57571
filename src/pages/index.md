@@ -100,7 +100,7 @@ sections:
           fringilla, fringilla.
         actions:
           - label: Learn More
-            url: ''
+            url: /style-guide
             style: primary
             has_icon: true
             icon: arrow-right

@@ -64,7 +64,7 @@ sections:
             type: action
   - type: grid_section
     title: Reviews Section
-    subtitle: Grid Section Example
+    subtitle: ''
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl

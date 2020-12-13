@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Best Konyaku Manufacturer in Indonesia
-    subtitle: 'Flour, Chips, and many more'
+    subtitle: ''
     content: >-
       Didirikan pada tahun 2008, PT Anugerah Bumi Samudra memiliki banyak
       pengalaman dalam penyediaan produk berkualitas.

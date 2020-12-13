@@ -87,7 +87,7 @@ sections:
     subtitle: ''
     actions: []
     grid_items:
-      - title: Surat Izin Usaha Perdagangan
+      - title: Surat Izin Usaha Perdagangan (SIUP
         subtitle: ''
         title_align: left
         content: 'Surat Izin Usaha Perdagangan (SIUP) No : 510.41/018/00799/BPT/2014'

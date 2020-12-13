@@ -53,6 +53,15 @@ sections:
         image: images/about-1.jpg
         media_position: right
         media_width: fifty
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            type: action
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example

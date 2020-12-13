@@ -150,7 +150,10 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     features:
-      - title: “Pelayanan yang diberikan oleh PT Anugrah Bumi Samudra ”
+      - title: >-
+          “Pelayanan yang diberikan oleh PT Anugrah Bumi Samudra sangatlah
+          ramah, adminnya fast respon, dan pengiriman dilakukan dengan cepat dan
+          konsisten.”
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         media_position: right

@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Products
 sections:
   - type: hero_section
     title: Explore Products
@@ -17,7 +17,7 @@ sections:
         media_width: fifty
         actions:
           - label: Order Here
-            url: lorem-ipsum
+            url: product/flour
             style: primary
             has_icon: false
             icon: arrow-left
@@ -38,7 +38,7 @@ sections:
         media_width: fifty
         actions:
           - label: Order Here
-            url: lorem-ipsum
+            url: product/chips
             style: primary
             has_icon: false
             icon: arrow-left
@@ -55,7 +55,7 @@ sections:
         media_width: fifty
         actions:
           - label: Order Here
-            url: lorem-ipsum
+            url: product/other
             style: primary
             has_icon: false
             icon: arrow-left

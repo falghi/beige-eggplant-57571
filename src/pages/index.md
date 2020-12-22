@@ -8,11 +8,11 @@ sections:
       Didirikan pada tahun 2008, PT. Anugerah Bumi Samudra memiliki banyak
       pengalaman dalam penyediaan produk berkualitas.
     actions:
-      - label: Contact Us
-        url: /pricing
+      - label: Order Now
+        url: products
         style: primary
-      - label: Learn More
-        url: /features
+      - label: About Us
+        url: about
         style: secondary
     image: images/classic/hero.png
     media_position: left
@@ -173,37 +173,6 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: secondary
-  - type: grid_section
-    title: Our Team
-    subtitle: ''
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
-    grid_items:
-      - title: Gustav Purpleson
-        subtitle: Co-Founder & CEO
-        title_align: center
-        image: images/gustav-purpleson.jpg
-        image_position: top
-      - title: Dianne Ameter
-        subtitle: Software Engineer
-        title_align: center
-        image: images/dianne-ameter.jpg
-        image_position: top
-      - title: Hugh Saturation
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
-      - title: Hilary Ouse
-        subtitle: Operations Manager
-        title_align: center
-        image: images/hilary-ouse.jpg
-        image_position: top
-    grid_cols: four
-    align: center
     background_color: secondary
 template: advanced
 ---

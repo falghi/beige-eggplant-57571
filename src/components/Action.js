@@ -14,7 +14,12 @@ export default class Action extends React.Component {
             	{_.get(action, 'has_icon', null) ? (<React.Fragment>
             		<Icon {...this.props} icon={_.get(action, 'icon', null)} />
             		<span className={classNames({'order-first': action_icon_pos === 'right', 'sr-only': action_icon_pos === 'center'})}>{_.get(action, 'label', null)}</span>
-            	</React.Fragment>) : 
+                </React.Fragment>) : 
+                _.get(action, 'has_image', null) ?
+                    <img src={`/images/${_.get(action, 'image', '')}`} style={{
+                        width: "28px", border: "1px solid black", borderRadius: "5%"
+                    }}/>
+                :
             		_.get(action, 'label', null)
             	}
             </Link>

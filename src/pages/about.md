@@ -118,6 +118,21 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - type: cta_section
+    title: ''
+    content: >-
+      <h2 class="section__title">
+        Management System as per ISO 9001 : 2008
+      </h2>
+      <ul style="text-align: left; padding-top: 1rem">
+        <li>Certificate Registration No. 16 00 C 14050</li>
+        <li>Audit Report No I-C14050/2014</li>
+      </ul>
+    align: center
+    padding_top: medium
+    padding_bottom: none
+    has_border: false
+    background_color: none
   - type: grid_section
     title: Our Office
     grid_items:

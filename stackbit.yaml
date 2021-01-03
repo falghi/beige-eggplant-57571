@@ -425,6 +425,7 @@ models:
             - blog_feed_section
             - cta_section
             - form_section
+            - whatsapp_form
   hero_section:
     type: object
     label: Hero section

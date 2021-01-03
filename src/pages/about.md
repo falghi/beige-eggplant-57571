@@ -5,7 +5,7 @@ sections:
     title: About
     subtitle: Selamat Datang di Anugerah Bumi Samudra
     align: center
-    background_color: secondary
+    background_color: primary
   - type: features_section
     features:
       - title: Didirikan pada Tahun 2008

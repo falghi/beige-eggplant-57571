@@ -2,12 +2,12 @@
     "description": "PT. Anugerah Bumi Samudra mewakili produsen terkemuka dari flexible intermediate bulk containers (FIBC), karung anyaman polypropylene dan berbagai produk sekali pakai plastik lainnya.",
     "layout": "boxed",
     "style": "classic",
-    "palette": "blue",
+    "palette": "green",
     "mode": "light",
     "base_font": "serif",
     "header": {
         "title": "PT. ABS",
-        "logo": "images/classic/cropped-logo.png",
+        "logo": "images/classic/logo.jpeg",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
@@ -41,11 +41,6 @@
                 "style": "link",
                 "has_image": true,
                 "image": "flag_uk.png"
-            },
-            {
-                "label": "Order Now",
-                "url": "/pricing",
-                "style": "primary"
             }
         ],
         "has_anncmnt": true,
@@ -56,7 +51,7 @@
         "anncmnt_id": "new-features"
     },
     "footer": {
-        "logo": "images/classic/cropped-logo.png",
+        "logo": "images/classic/logo.jpeg",
         "has_primary_nav": true,
         "primary_nav_title": "Company",
         "primary_nav_links": [

@@ -25,16 +25,16 @@ sections:
     title: Products
     subtitle: ''
     grid_items:
-      - title: Flour
+      - title: Chips
         title_align: left
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Konjac chips are sliced konjac root which already dried and usually
+          used for basic raw materials of konjac powder before applicated for
+          some product of industries
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /product/chips
             style: link
             has_icon: true
             icon: arrow-right
@@ -44,16 +44,16 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Chips
+      - title: Flour
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Konjac flour is a flour made from the starchy root of the konjac plant.
+          It is also a High-Fiber Ingredient That Makes Shirataki Noodles So Healthy
+          and Delicious
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /product/flour
             style: link
             has_icon: true
             icon: arrow-right
@@ -63,16 +63,15 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Product 3
+      - title: Glucomannan
         title_align: left
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Glucomannan is a natural, water-soluble dietary fiber extracted
+          from the roots of the elephant yam, also known as konjac.
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /product/glucomannan
             style: link
             has_icon: true
             icon: arrow-right
@@ -124,42 +123,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: grid_section
-    title: Clients
-    subtitle: ''
-    align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_align: center
-      - image: images/logo-2.svg
-        image_align: center
-      - image: images/logo-3.svg
-        image_align: center
-      - image: images/logo-4.svg
-        image_align: center
-      - image: images/logo-5.svg
-        image_align: center
-      - image: images/logo-6.svg
-        image_align: center
-      - image: images/logo-7.svg
-        image_align: center
-      - image: images/logo-8.svg
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-  - type: features_section
-    features:
-      - title: >-
-          “Pelayanan yang diberikan oleh PT. Anugerah Bumi Samudra sangatlah
-          ramah, adminnya fast respon, dan pengiriman dilakukan dengan cepat dan
-          konsisten. Highly Recommended!”
-        subtitle: 'Andi Budi, Sr. Design Manager at Company X'
-        image: images/brandon-guidelines.png
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
   - type: cta_section
     title: Order our High Quality Konyaku Products Now!
     content: >-
@@ -173,6 +136,6 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: primary
 template: advanced
 ---

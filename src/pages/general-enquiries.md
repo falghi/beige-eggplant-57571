@@ -1,24 +1,26 @@
 ---
-title: Other
+title: General enquiries
 sections:
   - type: hero_section
-    title: Flour
-    subtitle: The optional subtitle for flour
+    title: General Enquiries
+    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: medium
     background_color: none
   - type: form_section
     content: >-
-      ### Konjac Flour
+      ### Billing
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.<br/><br/>
+      fringilla, fringilla.
 
-      ![Flour Photo](/images/classic/logo.jpeg)
-      ![Flour Photo](/images/classic/logo.jpeg)
-      ![Flour Photo](/images/classic/logo.jpeg)
+      ### Privacy
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+      fringilla, fringilla.
     content_align: left
     form_position: right
     form_width: fifty
@@ -38,14 +40,20 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: text
-        name: quantity
-        label: Quantity
-        default_value: 10 kg
+        name: subject
+        label: Subject
+        default_value: Your subject
       - input_type: textarea
         name: message
         label: Message
-        default_value: I want to order Konjac Flour for Company X
-    submit_label: Order with Whatsapp
+        default_value: Your message
+      - input_type: checkbox
+        name: consent
+        label: >-
+          I understand that this form is storing my submitted information so I
+          can be contacted.
+        is_required: true
+    submit_label: Send Message
     align_vert: top
     padding_top: medium
     padding_bottom: medium

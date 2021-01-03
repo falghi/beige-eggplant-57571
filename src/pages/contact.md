@@ -13,7 +13,7 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - title: Partnering and Sponsorships
+      - title: Become a Supplier
         title_align: center
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
@@ -21,8 +21,8 @@ sections:
         content_align: center
         actions:
           - label: Get Support
-            url: /general-enquiries
-            style: link
+            url: /become-a-supplier
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
@@ -40,7 +40,7 @@ sections:
         actions:
           - label: Get Support
             url: /general-enquiries
-            style: secondary
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
@@ -49,25 +49,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Other Queries
-        title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
-        content_align: center
-        actions:
-          - label: Get Support
-            url: /general-enquiries
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
-        image: images/classic/icon-3.svg
-        image_position: top
-        image_align: center
-        image_has_padding: true
-    grid_cols: three
+    grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
     enable_cards: true

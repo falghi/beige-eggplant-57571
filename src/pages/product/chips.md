@@ -16,9 +16,9 @@ sections:
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.<br/><br/>
 
-      ![Flour Photo](/images/classic/logo.jpg)
-      ![Flour Photo](/images/classic/logo.jpg)
-      ![Flour Photo](/images/classic/logo.jpg)
+      ![Flour Photo](/images/classic/logo.jpeg)
+      ![Flour Photo](/images/classic/logo.jpeg)
+      ![Flour Photo](/images/classic/logo.jpeg)
     content_align: left
     form_position: right
     form_width: fifty

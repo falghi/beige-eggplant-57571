@@ -8,7 +8,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-  - type: form_section
+  - type: whatsapp_form
     content: >-
       ### Konjac Flour
 
@@ -16,16 +16,14 @@ sections:
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.<br/><br/>
 
-      ![Flour Photo](/images/classic/logo.jpg)
-      ![Flour Photo](/images/classic/logo.jpg)
-      ![Flour Photo](/images/classic/logo.jpg)
+      ![Flour Photo](/images/classic/logo.jpeg)
     content_align: left
     form_position: right
     form_width: fifty
     form_layout: inline
     enable_card: true
     form_id: contact-form
-    form_action: /thank-you
+    wa_message_title: Order Konjac Flour
     form_fields:
       - input_type: text
         name: name

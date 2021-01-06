@@ -9,9 +9,10 @@ const FormSupplier = (props) => {
     const [inpEmail, setInpEmail] = useState("")
     const [inpAddress, setInpAddress] = useState("")
     const [inpCity, setInpCity] = useState("")
-    const [inpMessage, setInpMessage] = useState("")
+    const [inpLandArea, setInpLandArea] = useState("")
+    const [inpCapacity, setInpCapacity] = useState("")
 
-    const message = `Name: ${inpName}<br/>Email: ${inpEmail}<br/>Address: ${inpAddress}<br/>City: ${inpCity}<br/><br/>${inpMessage}`
+    const message = `Name: ${inpName}<br/>Email: ${inpEmail}<br/>Address: ${inpAddress}<br/>City: ${inpCity}<br/>Land Area: ${inpLandArea}<br/>Capacity / month: ${inpCapacity}`
 
     const submitForm = (e) => {
         e.preventDefault()
@@ -122,21 +123,27 @@ const FormSupplier = (props) => {
                                 </div>
                                 <div className={classNames('form-group', {'mb-2': form_is_inline === false, 'mb-1': form_is_inline === true, 'mb-xs-0': form_is_inline === true, 'flex-auto': form_is_inline})}>
                                     <label for="address">Address</label>
-                                    <input type="text" id="address" name="address" placeholder="Your address" onChange={ (e) => {
+                                    <input type="text" id="address" name="address" placeholder="Store address" onChange={ (e) => {
                                         setInpAddress(e.target.value)
                                     }} value={inpAddress} />
                                 </div>
                                 <div className={classNames('form-group', {'mb-2': form_is_inline === false, 'mb-1': form_is_inline === true, 'mb-xs-0': form_is_inline === true, 'flex-auto': form_is_inline})}>
                                     <label for="city">City</label>
-                                    <input type="text" id="city" name="city" placeholder="Your city" onChange={ (e) => {
+                                    <input type="text" id="city" name="city" placeholder="Store city" onChange={ (e) => {
                                         setInpCity(e.target.value)
                                     }} value={inpCity} />
                                 </div>
                                 <div className={classNames('form-group', {'mb-2': form_is_inline === false, 'mb-1': form_is_inline === true, 'mb-xs-0': form_is_inline === true, 'flex-auto': form_is_inline})}>
-                                    <label for="message">Message</label>
-                                    <textarea rows="5" id="message" name="message" placeholder="Your message" onChange={ (e) => {
-                                        setInpMessage(e.target.value)
-                                    }} value={inpMessage} />
+                                    <label for="landarea">Land Area</label>
+                                    <input type="text" id="landarea" name="landarea" placeholder="Store land area" onChange={ (e) => {
+                                        setInpLandArea(e.target.value)
+                                    }} value={inpLandArea} />
+                                </div>
+                                <div className={classNames('form-group', {'mb-2': form_is_inline === false, 'mb-1': form_is_inline === true, 'mb-xs-0': form_is_inline === true, 'flex-auto': form_is_inline})}>
+                                    <label for="capacity">Capacity / month</label>
+                                    <input type="text" id="capacity" name="capacity" placeholder="Store capacity / month" onChange={ (e) => {
+                                        setInpCapacity(e.target.value)
+                                    }} value={inpCapacity} />
                                 </div>
                                 <div className={classNames('form-submit', {'mt-3': form_is_inline === false, 'mx-auto': form_is_inline === true, 'mr-xs-0': form_is_inline === true, 'ml-xs-1': form_is_inline === true})}>
                                     <button type="submit" className="btn btn--primary">{_.get(section, 'submit_label', null)}</button>

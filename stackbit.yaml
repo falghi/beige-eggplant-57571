@@ -426,6 +426,7 @@ models:
             - cta_section
             - form_section
             - whatsapp_form
+            - form_to_email
   hero_section:
     type: object
     label: Hero section

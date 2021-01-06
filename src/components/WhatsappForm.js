@@ -93,7 +93,7 @@ const WhatsappForm = (props) => {
                                     </div>
                                     <div className={classNames('form-group', {'mb-2': form_is_inline === false, 'mb-1': form_is_inline === true, 'mb-xs-0': form_is_inline === true, 'flex-auto': form_is_inline})}>
                                         <label for="email">Email</label>
-                                        <input type="text" id="email" name="email" placeholder="Your email" onChange={ (e) => {
+                                        <input type="email" id="email" name="email" placeholder="Your email" onChange={ (e) => {
                                             setInpEmail(e.target.value)
                                         }} value={inpEmail} />
                                     </div>

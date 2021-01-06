@@ -42,7 +42,7 @@ sections:
       - input_type: textarea
         name: message
         label: Message
-        default_value: I want to order Konjac Flour for Company X
+        default_value: I want to order Konjac Flour for Reseller
     submit_label: Order with Whatsapp
     align_vert: top
     padding_top: medium

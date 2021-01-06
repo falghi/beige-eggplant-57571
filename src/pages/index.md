@@ -130,7 +130,7 @@ sections:
       ipsum maximus aliquet risus. Vivamus in nibh fringilla, fringilla.
     actions:
       - label: Order Now
-        url: /pricing
+        url: /products
         style: primary
     actions_position: bottom
     align: center

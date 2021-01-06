@@ -13,7 +13,8 @@ import Footer from './Footer';
 import FooterMenu from './FooterMenu';
 import FormField from './FormField';
 import FormSection from './FormSection';
-import WhatsappForm from './WhatsappForm'
+import WhatsappForm from './WhatsappForm';
+import FormToEmail from './FormToEmail';
 import GridItem from './GridItem';
 import GridSection from './GridSection';
 import Header from './Header';
@@ -40,6 +41,7 @@ export {
     FormField,
     FormSection,
     WhatsappForm,
+    FormToEmail,
     GridItem,
     GridSection,
     Header,
@@ -67,6 +69,7 @@ export default {
     FormField,
     FormSection,
     WhatsappForm,
+    FormToEmail,
     GridItem,
     GridSection,
     Header,

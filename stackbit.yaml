@@ -393,6 +393,7 @@ models:
             - form_section
             - whatsapp_form
             - form_to_email
+            - form_supplier
   hero_section:
     type: object
     label: Hero section

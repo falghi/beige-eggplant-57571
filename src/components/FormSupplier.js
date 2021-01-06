@@ -4,13 +4,14 @@ import _ from 'lodash';
 
 import {classNames, toStyleObj, withPrefix, markdownify} from '../utils';
 
-const FormToEmail = (props) => {
+const FormSupplier = (props) => {
     const [inpName, setInpName] = useState("")
     const [inpEmail, setInpEmail] = useState("")
-    const [inpSubject, setInpSubject] = useState("")
+    const [inpAddress, setInpAddress] = useState("")
+    const [inpCity, setInpCity] = useState("")
     const [inpMessage, setInpMessage] = useState("")
 
-    const message = `Name: ${inpName}<br/>Email: ${inpEmail}<br/>Subject: ${inpSubject}<br/><br/>${inpMessage}`
+    const message = `Name: ${inpName}<br/>Email: ${inpEmail}<br/>Address: ${inpAddress}<br/>City: ${inpCity}<br/><br/>${inpMessage}`
 
     const submitForm = (e) => {
         e.preventDefault()
@@ -22,7 +23,7 @@ const FormToEmail = (props) => {
             body: JSON.stringify({
                 name: inpName,
                 email: inpEmail,
-                subject: inpSubject,
+                subject: "I want to become a Supplier",
                 message: message
             })
         }).then(resp => resp.json()).then(data => {
@@ -120,10 +121,16 @@ const FormToEmail = (props) => {
                                     }} value={inpEmail} />
                                 </div>
                                 <div className={classNames('form-group', {'mb-2': form_is_inline === false, 'mb-1': form_is_inline === true, 'mb-xs-0': form_is_inline === true, 'flex-auto': form_is_inline})}>
-                                    <label for="subject">Subject</label>
-                                    <input type="text" id="subject" name="subject" placeholder="Your subject" onChange={ (e) => {
-                                        setInpSubject(e.target.value)
-                                    }} value={inpSubject} />
+                                    <label for="address">Address</label>
+                                    <input type="text" id="address" name="address" placeholder="Your address" onChange={ (e) => {
+                                        setInpAddress(e.target.value)
+                                    }} value={inpAddress} />
+                                </div>
+                                <div className={classNames('form-group', {'mb-2': form_is_inline === false, 'mb-1': form_is_inline === true, 'mb-xs-0': form_is_inline === true, 'flex-auto': form_is_inline})}>
+                                    <label for="city">City</label>
+                                    <input type="text" id="city" name="city" placeholder="Your city" onChange={ (e) => {
+                                        setInpCity(e.target.value)
+                                    }} value={inpCity} />
                                 </div>
                                 <div className={classNames('form-group', {'mb-2': form_is_inline === false, 'mb-1': form_is_inline === true, 'mb-xs-0': form_is_inline === true, 'flex-auto': form_is_inline})}>
                                     <label for="message">Message</label>
@@ -144,4 +151,4 @@ const FormToEmail = (props) => {
     );
 }
 
-export default FormToEmail
+export default FormSupplier

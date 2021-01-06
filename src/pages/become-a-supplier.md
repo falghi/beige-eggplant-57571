@@ -8,7 +8,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-  - type: form_to_email
+  - type: form_supplier
     content: >-
       ### Supplier Benefits
 

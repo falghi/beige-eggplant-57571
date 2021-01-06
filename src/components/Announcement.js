@@ -8,7 +8,8 @@ export default class Announcement extends React.Component {
     render() {
         let site = _.get(this.props, 'site', null);
         let align_x = _.get(site, 'siteMetadata.header.anncmnt_align', null) || 'left';
-        let has_close_btn = _.get(site, 'siteMetadata.header.anncmnt_has_close', null);
+				let has_close_btn = _.get(site, 'siteMetadata.header.anncmnt_has_close', null);
+				return <></>
         return (
             <div className={classNames('announcement-bar', 'py-2', {'js-announcement': has_close_btn, 'is-hidden': has_close_btn})}{...(has_close_btn ? ({"data-anncmnt-id": _.get(site, 'siteMetadata.header.anncmnt_id', null)}) : null)}>
             	<div className="container">

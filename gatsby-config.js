@@ -28,6 +28,18 @@ module.exports = {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
             }
+        },
+        {
+          resolve: `gatsby-plugin-manifest`,
+          options: {
+            name: `PT. Anugerah Bumi Samudra`,
+            short_name: `PT. ABS`,
+            start_url: `/`,
+            background_color: `#ffffff`,
+            theme_color: `#29cf7f`,
+            display: `minimal-ui`,
+            icon: `images/classic/logo.jpeg`, // This path is relative to the root of the site.
+          },
         }
     ]
 };

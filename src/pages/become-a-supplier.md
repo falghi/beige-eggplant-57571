@@ -50,7 +50,7 @@ sections:
         name: message
         label: Message
         default_value: Your message
-    submit_label: Send Message
+    submit_label: Message to Whatsapp
     align_vert: top
     padding_top: medium
     padding_bottom: medium

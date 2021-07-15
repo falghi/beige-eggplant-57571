@@ -13,7 +13,7 @@ sections:
           Konjac chips are sliced konjac root which already dried and usually
           used for basic raw materials of konjac powder before applicated for
           some product of industries
-        image: images/about-3.jpg
+        image: images/product/chips.jpeg
         media_position: right
         media_width: fifty
         actions:
@@ -31,7 +31,7 @@ sections:
           Konjac flour is a flour made from the starchy root of the konjac plant.
           It is also a High-Fiber Ingredient That Makes Shirataki Noodles So Healthy
           and Delicious
-        image: images/about-2.jpg
+        image: images/product/flour.jpeg
         media_position: left
         media_width: fifty
         actions:

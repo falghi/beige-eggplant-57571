@@ -139,8 +139,9 @@ sections:
       - title: PT. Anugerah Bumi Samudra Bogor
         content: >-
           1234 Some St.<br/> Bogor, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+          [+62-812-8069-0138](tel:+6281280690138)<br/>
+          [+62-812-2389-9867](tel:+6281223899867)<br/>
+          [abskonjac@gmail.com](mailto:email@example.com)
         content_align: left
         actions:
           - label: Get Directions

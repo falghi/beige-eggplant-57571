@@ -10,28 +10,19 @@ sections:
     features:
       - title: Didirikan pada Tahun 2008
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla. Halo maximus aliquet risus. Vivamus in nibh
-          valhalla, fringilla.
+          PT. Anugerah Bumi Samudra didirikan tahun 2008. Awal mula kami bergerak dibidang jumbo bag, sampai saat ini. Pada awal 2020 pandemi virus covid-19 memberikan dampak besar bagi perusahaan kami, yang mana kami memberanikan diri untuk melebarkan usaha di bidang pengolahan pertanian. 
         image: images/about-5.jpg
         media_position: right
         media_width: fifty
-      - title: Memiliki Portofolio Produk yang Beragam
+      - title: Berkontribusi langsung ke lapangan
         content: >-
-          Portofolio produk yang beragam untuk memenuhi kebutuhan kemasan
-          industri yang berbeda. Donec nisl ligula, cursus id molestie vel,
-          maximus aliquet risus. Vivamus in nibh fringilla, fringilla. Donec
-          nisl ligula, cursus id molestie vel.
+          Usaha ini kita pilih, karena kita langsung terjun dengan para petani sekaligus mengedukasi mereka untuk lebih baik. dan tentunya kami bekerja sama dengan para ahli-ahli untuk meneliti produk yang kami buat, dengan hal itu kami melebarkan usaha di bidang pengolahan pertanian.
         image: images/about-2.jpg
         media_position: left
         media_width: fifty
       - title: Berlokasi strategis di Bogor
         content: >-
-          Berlokasi strategis di Bogor untuk operasi dan pengiriman yang lebih
-          cepat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-          nisl ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in
-          nibh fringilla, fringilla.
+          Kami memiliki sejumlah fasilitas yang mendukung untuk usaha di bidang ini. berlokasi strategis di Cariu, Bogor yaitu daerah yang masih terbilang jauh dari keramaian tetapi memiliki tempat yang cukup luas.
         image: images/about-1.jpg
         media_position: right
         media_width: fifty
@@ -166,7 +157,7 @@ sections:
     content: 'Flour, Chips, and many others Konyaku Products'
     actions:
       - label: Order Now
-        url: /pricing
+        url: /products
         style: primary
     align: center
     padding_top: medium

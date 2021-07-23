@@ -3,7 +3,6 @@ title: About
 sections:
   - type: hero_section
     title: About
-    subtitle: Selamat Datang di Anugerah Bumi Samudra
     align: center
     background_color: primary
   - type: features_section
@@ -15,7 +14,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Berkontribusi langsung ke lapangan
-        content: >-
+        content: >
           Usaha ini kita pilih, karena kita langsung terjun dengan para petani sekaligus mengedukasi mereka untuk lebih baik. dan tentunya kami bekerja sama dengan para ahli-ahli untuk meneliti produk yang kami buat, dengan hal itu kami melebarkan usaha di bidang pengolahan pertanian.
         image: images/about-2.jpg
         media_position: left

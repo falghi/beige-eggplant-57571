@@ -3,7 +3,6 @@ title: Products
 sections:
   - type: hero_section
     title: Explore Products
-    subtitle: 'Chips, Flour, and Glucomannan'
     background_color: primary
   - type: features_section
     features:
@@ -37,23 +36,6 @@ sections:
         actions:
           - label: Order Here
             url: product/flour
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            type: action
-      - title: Glucomannan
-        subtitle: ''
-        content: >-
-          Glucomannan is a natural, water-soluble dietary fiber extracted
-          from the roots of the elephant yam, also known as konjac.
-        image: images/about-1.jpg
-        media_position: right
-        media_width: fifty
-        actions:
-          - label: Order Here
-            url: product/glucomannan
             style: primary
             has_icon: false
             icon: arrow-left
